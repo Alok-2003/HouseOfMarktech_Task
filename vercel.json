@@ -8,7 +8,7 @@
     ],
     "routes":[
         {
-            "src":"views/home.ejs)",
+            "src":"./views/home.ejs)",
             "dest":"/"
         }
     ]
